@@ -1,0 +1,283 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bibliotheca Parliamenti: libri theologici, politici, historici, qui prostant venales in vico vulgo vocato Little-Britain. Classis secunda. Done into English for the Assembly of Divines.</title>
+            <title>Bibliotheca Parliamenti. Part 2.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28124</idno>
+            <idno type="STC">Wing B2845C</idno>
+            <idno type="STC">ESTC R210674</idno>
+            <idno type="EEBO-CITATION">99825442</idno>
+            <idno type="PROQUEST">99825442</idno>
+            <idno type="VID">29824</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29824)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1772:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bibliotheca Parliamenti: libri theologici, politici, historici, qui prostant venales in vico vulgo vocato Little-Britain. Classis secunda. Done into English for the Assembly of Divines.</title>
+                  <title>Bibliotheca Parliamenti. Part 2.</title>
+               </titleStmt>
+               <extent>12, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Anno Domini, 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Erroneously attributed to John Birkenhead. The work is an imitation of Birkenhead's "Paul's Church-yard" and "Two centuries of Pauls Church-yard", with some items taken directly from those works.</note>
+                  <note>A satire on the Commonwealth in the form of booksellers' lists.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>The last two leaves contain "The four-legg'd elder", in verse.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  Early works to 1800.</term>
+               <term>Imaginary books and libraries --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29824:1"/>
+            <pb facs="tcp:29824:1" rendition="simple:additions"/>
+            <p>BIBLIOTHECA PARLIAMENTI: Libri Theologici, Politici, Hiſtorici, <hi>Qui prostant venales In Vico vulgo vocato <hi>LITTLE-BRITAIN.</hi>
+               </hi>
+            </p>
+            <p>Claſſis ſecunda.</p>
+            <p>Done into <hi>Engliſh</hi> FOR <hi>THE ASSEMBLY</hi> OF DIVINES.</p>
+            <p>Anno Domini, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:29824:2"/>
+            <head>Books to be ſold in Little-<hi>Brittaine.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>EX otio negotium,</hi> The Art of picking of ſtraws in this grand vacation, by the late Members of the late Parliament.</item>
+               <item>2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Newburn</hi>-Heath, an ex<g ref="char:EOLhyphen"/>cellent Poem in Praiſe of one pair of Legs, writ<g ref="char:EOLhyphen"/>ten by Sir <hi>Henry Vane</hi> junior.</item>
+               <item>3. The <hi>Hermaphrodite</hi> or half Souldier, teach<g ref="char:EOLhyphen"/>ing the poſture of fighting with the word and the ſword, as it was held forth to an Aſſembly of Saints in the new-<hi>Artillery</hi> ground, by <hi>Philip Skippon.</hi>
+               </item>
+               <item>4. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Or the gravel-pit, cleer<g ref="char:EOLhyphen"/>ing the difference betwixt a Wife and an Hand<g ref="char:EOLhyphen"/>maid, learnedly diſputed by Sir <hi>Whimſey Mild<g ref="char:EOLhyphen"/>may.</hi>
+               </item>
+               <item>5. <hi>Cerviſia Coccina,</hi> The Art of turning Leather into Scarlet, by Co. <hi>Thomas Pride.</hi>
+               </item>
+               <item>6. <hi>Critica Sacra,</hi> wherein, againſt all contra<g ref="char:EOLhyphen"/>diction is proved, that the place which ſaith, <hi>The Saints are cloathed in White rayment</hi> muſt hereafter be read in <hi>Read coats;</hi> by <hi>Vavafor Powel.</hi>
+               </item>
+               <item>7. <hi>Inverecundus Moechus,</hi> Or the ſin of Adul<g ref="char:EOLhyphen"/>tery made plain in a midnight Dialogue, by Mr. <hi>Scot.</hi>
+               </item>
+               <item>8. <hi>Nove Virga,</hi> A new Art of meaſuring cloth by the ſword, by <hi>Hugh-Peters.</hi>
+               </item>
+               <pb n="3" facs="tcp:29824:2"/>
+               <item> 9. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or, The ſowre Saint, being a cluſter of Grapes from a withered Vine, by Col. <hi>Robert Tichburn.</hi>
+               </item>
+               <item>10. <hi>Loves Maſterpiece,</hi> A new hiſtory, both Naturall and Divine; wherein is ſet forth to the life, the loves of <hi>Mrs. Fenton,</hi> and the <hi>Parſon of Dulidge,</hi> &amp;c. worthy the peruſall of all ingenious ſpirits, to be ſold at the Horns in <hi>Pauls</hi> Church<g ref="char:EOLhyphen"/>yard.</item>
+               <item>11. <hi>Pſeudo propheta,</hi> or, The pittifull Parlia<g ref="char:EOLhyphen"/>ment, by <hi>George Withers</hi> the pittifull Poet.</item>
+               <item>12. <hi>Excors Redivivus,</hi> An exact and true hiſto<g ref="char:EOLhyphen"/>ry of the Victories obtained by the right valiant Sir <hi>James Harrington,</hi> wherein is alſo ſhown his wiſdom in running away from his whore, by <hi>Joſhua Sprig.</hi>
+               </item>
+               <item>13. <hi>Semivir,</hi> Or the zealous Pander, written by Sir <hi>Gilbert Pickering,</hi> with addition of fructifica<g ref="char:EOLhyphen"/>tion, by an eminent Major in the Army.</item>
+               <item>14. <hi>Chiromantia,</hi> The baudy language of the hand and fingers, invented and found out by Sir <hi>Harry Mildmay,</hi> whilſt he was pimp to the Duke of <hi>Buchingham</hi> and now lately reprinted, at the deſire and for the uſe of Mrs. <hi>Lambert.</hi>
+               </item>
+               <item>15. <hi>Legenda Nigra,</hi> or an exact catalogue of the new Councell of State, by <hi>O. Cromwel.</hi>
+               </item>
+               <item>16. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Or the ſingle Eye, and double dealer, ſhewing the reaſon why Co. <hi>Hew<g ref="char:EOLhyphen"/>ſon</hi> hath a double Conſcience, becauſe he hath but one Eye.</item>
+               <pb n="4" facs="tcp:29824:3"/>
+               <item> 17. The Ginger-bread Prophet, or the Altho<g ref="char:EOLhyphen"/>ran of <hi>Oliver Mahomet,</hi> explained and expoun<g ref="char:EOLhyphen"/>ded by <hi>Hugh Peters</hi> late Paſtor to a hunger-ſtarved flock as <hi>Salem</hi> in <hi>New England.</hi>
+               </item>
+               <item>18. <hi>Icon Animarum,</hi> Or the jumping of wits, in the production of <hi>John Taylor</hi> the water Poets <hi>Nonſenſe upon Senſe,</hi> and the late Parliaments Act of Indemnity both on a day.</item>
+               <item>19. <hi>Coriatus junior,</hi> or, The wandering Jew, by <hi>Miles Corbet.</hi>
+               </item>
+               <item>20. <hi>The Rebellion,</hi> A Tragedy lately Acted at <hi>White hall,</hi> by the Rebels of this age, to be ſold at the Bible and States Armes in <hi>Little Brittain.</hi>
+               </item>
+               <item>21. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Comfort and Counſell for afflicted Conſciences dedicated to the Parliament and Army, by <hi>J. Durant</hi> Deane of <hi>Canterbury.</hi>
+               </item>
+               <item>22. <hi>The way to get wealth, and the Knave in grain,</hi> Two Tracts written experimentally, by <hi>W. Lenthal</hi> Eſquire.</item>
+               <item>23. <hi>
+                     <g ref="char:V">Ʋ</g>trum Horum.</hi> An Agreement betwixt the Pope and <hi>Cromwel,</hi> wherein is cleerly proved there is little difference between them, they being both Saints of the black rowl, by a disbanded Member.</item>
+               <item>24. <hi>The valiant Kid,</hi> Wherin is condemned that fooliſh practice of fighting Duels, by Sir <hi>James Harrington.</hi>
+               </item>
+               <item>25. <hi>Hymnus Tabaci,</hi> A Poem in honour, of a Levellers leather Linings, dryed over a Cloſe<g ref="char:EOLhyphen"/>ſtool, by <hi>Pagan Fiſher</hi> Eſquire.</item>
+               <pb n="5" facs="tcp:29824:3"/>
+               <item> 26. <hi>Certamen Religioſum,</hi> or a diſputation be<g ref="char:EOLhyphen"/>tween a Leveller &amp; an Independent, on that Text of Scripture, <hi>
+                     <g ref="char:V">Ʋ</g>nleſs ye repent ye ſhall both periſh.</hi>
+               </item>
+               <item>27. <hi>The wandering Knight,</hi> or a diſcovery of a new world 22 leagues beyond the old <hi>Southward</hi> to Cape <hi>Nuſqua<g ref="char:cmbAbbrStroke">̄</g>,</hi> by ſeverall wandering members.</item>
+               <item>28. <hi>The golden Aſſe</hi> in ten books, by the Lord Major of the City of <hi>London.</hi>
+               </item>
+               <item>29. <hi>Hoylii Poſthuma,</hi> A new way to cozen the devil, a piece of much worth, written wholly for the benefit of the Parliament and the Army, by Alderman <hi>Hoyl</hi> deceaſed.</item>
+               <item>30. An excellent new Ballad, entituled <hi>The life of a ſouldier,</hi> to the tune of <hi>No body elſe ſhall plun<g ref="char:EOLhyphen"/>der but I,</hi> by Major Gen. <hi>Lambert,</hi> together with an Appendix <hi>de generatione hominum,</hi> by Lieu. Gen. <hi>Harriſon,</hi> a practitioner in that Science.</item>
+               <item>31. <hi>Angliae flagellum,</hi> or the unfortunate Politi<g ref="char:EOLhyphen"/>tian, by Lieu. Col. <hi>J. Lilburn.</hi>
+               </item>
+               <item>32. <hi>De reformatione legum.</hi> That the only way to prevent and determine tedious Law ſuits, is to undo men quickly: by the Maſters of the <hi>Chancery.</hi>
+               </item>
+               <item>33. <hi>The thief on the Croſs,</hi> wherein is ſhewn, that the only way to make thieves repent, and Knaves honeſt, is to bring them to the Gallows, made out in a Sermon upon occaſion of the diſſolution of the late Parliament. in the Cathedrall rounds of <hi>Smithfield</hi> by Mr. <hi>Vavaſor Powel.</hi>
+               </item>
+               <item>34. <hi>De ſalute conſervanda,</hi> a Treatiſe proving, that the only way to keepe the people from Ma<g ref="char:EOLhyphen"/>lignant-humours,
+<pb n="6" facs="tcp:29824:4"/>is to let them bloud in the purſe.</item>
+               <item>35. <hi>Daemonogie,</hi> or the hiſtory of Independency, in two books, by Dr. <hi>Nathaniel Homes.</hi>
+               </item>
+               <item>36. <hi>The Sophiſter.</hi> Shewing the folly of ſuch as go to Church when they may heare a Sermon at home, or in a Stable: whereunto is annexed, the confounder of bells, by <hi>Samuel Chidly</hi> a ſimple Saint.</item>
+               <item>37. <hi>Annus tenebroſus,</hi> or the further propaga<g ref="char:EOLhyphen"/>tion of Heatheniſm amongſt Chriſtians, as it was held forth in a private conference by my Lord Generall to the Lady, whereby ſhe became fully ſatisfied, and he much eaſed. Publiſhed to prevent imperfect relations, by <hi>W. Dell</hi> an eye witneſſe thereof.</item>
+               <item>38. <hi>Chriſtianographia Britannica;</hi> or a continu<g ref="char:EOLunhyphen"/>ation of the famous hiſtory of the Knight <hi>Don Quixot,</hi> in the exemplary lives of the two Arch-Prieſts Errant, <hi>Vavaſor Powel,</hi> and <hi>W. Cradock.</hi>
+               </item>
+               <item>39. <hi>Carnis Reſurrection,</hi> or the exaltation of the fleſh, by the power of the Spirit, to the comſort of the dejected; held forth in a cloſe conference over the Butchers wife, by <hi>Hugh Peters.</hi>
+               </item>
+               <item>40. <hi>The artificial Changeling,</hi> a Tract proving our Army good Arithmeticians, ſince they can do any aditionall ſum, amounting to 120000 l. and upwards; but the peoples grievances are fee forth in the end, becauſe the ſouldiery are ſo well skil'd in multiplication and addition, but know not how to ſubſtract.</item>
+            </list>
+            <list>
+               <pb n="7" facs="tcp:29824:4"/>
+               <head>Acts and Orders.</head>
+               <item>1. A Declaration and Order of the Generall and his Councell of Officers, for the ſpeedy ray<g ref="char:EOLhyphen"/>ſing of 120000 l. a month, for the eaſe of the people.</item>
+               <item>2. An Act for the ſpeedy ſtopping the mouthes of Gods Meſſengers the Miniſters, and to let the Kingdom know, that a Meſſage from the new Councell of State is of more reverence and au<g ref="char:EOLhyphen"/>thority.</item>
+               <item>3. An Act for the keeping of M. <hi>Prin</hi> from go<g ref="char:EOLhyphen"/>ing to take up new Lodgings of his old Landlord at <hi>Garnſy,</hi> for fear a croſſe wind bring him back again to perfect the accounts of the Common<g ref="char:EOLhyphen"/>wealth in point of Sedition.</item>
+               <item>4. An Act for the ſpeedy relief of thoſe Sea<g ref="char:EOLhyphen"/>mens wives, whoſe husbands ſhall be ſlaine or taken by the Dutch in the preſent ſervice; that ſo they may not thraſh for a living in <hi>Roſemary-lane,</hi> and Cuckold their husbands to the ſcandall of the State.</item>
+               <item>5. An Act for the recompence of the two Superintendents of Presbytery and Independen<g ref="char:EOLhyphen"/>cy, <hi>Steven Marſhall,</hi> and <hi>Philip Nye,</hi> for their former good ſervices in venturing their ſouls, as freely as others have done their bodies.</item>
+               <item>7. An Act giving power to the <hi>Wylde</hi> Baron to read the Law backward, for the benefit of the State.</item>
+               <item>8. An Order for the new caſting S. <hi>Sepulchres</hi>
+                  <pb n="8" facs="tcp:29824:5"/>Bell, for the more ſpeedy ſummoning the Mem<g ref="char:EOLhyphen"/>bers together (they living at ſuch diſtance) when it ſhall pleaſe <hi>O. Cromwel</hi> to call them that way, <hi>viz.</hi> Tyburn.</item>
+               <item>9. Ordered that ſuch of the Lords and Com<g ref="char:EOLhyphen"/>mons that have continued faithfull to the Cauſe, do meet in a Committee on <hi>London</hi>-Bridge, <hi>in an upper Room, Acts</hi> 1.13. there to lay their heads together for the ſetling the peace of the three Nations according to the Minde of God revealed to us by his holy Prophet <hi>Ariſe Evans, Heb.</hi> 10.3, 4.</item>
+               <item>10. Ordered that <hi>John Field</hi> ſhall Pritt no more Acts or Orders, till hee hath given all his old ones to the ſhorten Alderman.</item>
+               <item>11. Ordered that Whitehall be hereafter cal<g ref="char:EOLhyphen"/>led <hi>Jewry,</hi> becauſe the Inhabitants are moſt Jews that Crucified their King, and intend to make that place a receptacle for all Gods and all Religions.</item>
+               <item>12. Ordered that <hi>Vavaſor Powell</hi> preach the Devill out of Hell, that there may be room for the Members.</item>
+               <item>13. Ordered that a convenient place be no<g ref="char:EOLhyphen"/>minated, where <hi>Harry Martin</hi> may keepe a Regiment of Whores, for the better propagating of the Saints.</item>
+               <item>14. Ordered by his Excellency the Lord Generall, that on Thurſday come fornight pub<g ref="char:EOLhyphen"/>like Thankes be given to God in all the Con<g ref="char:EOLhyphen"/>gregated
+<pb n="9" facs="tcp:29824:5"/>Churches in and about <hi>London,</hi> for free<g ref="char:EOLhyphen"/>ing us from that infectious plague called a Par<g ref="char:EOLhyphen"/>liament.</item>
+               <item>15. An act for the ſpeedy ſuppreſſing all Plays, the Fools being all turned Commanders or Par<g ref="char:EOLhyphen"/>liament men.</item>
+               <item>16. An act for the regulating of names, that the well-affected may not be abuſed by nick<g ref="char:EOLhyphen"/>names, but that every ſyllable have its full pro<g ref="char:EOLhyphen"/>nunciation, as, General <hi>Monke</hi> muſt heareafter be called Generall <hi>Monkey.</hi>
+               </item>
+               <item>17. Ordered that <hi>John Goodwin</hi> and <hi>Martin Parker</hi> conſult about forming ſome new Hymns, to be ſung for the edification of the Saints; and that <hi>Sternhold</hi> and <hi>Hopkins</hi> be no more uſed, it having been proved that they were Popiſhly af<g ref="char:EOLhyphen"/>fected.</item>
+               <item>18. An act for the ſpeedy drawing up a Petiti<g ref="char:EOLhyphen"/>on to <hi>Lucifer</hi> in behalfe of <hi>Cromwel,</hi> that ſeeing he hath done ſuch eminent ſervice for him in this world, he may not want a place of preferment in his Dominions.</item>
+               <item>19. Ordered that every Trooper (whether he can read or not) have liberty to be as <hi>David,</hi> a man of War and a Prophet.</item>
+               <item>20. Ordered that a ſpeedy ſupply of Phyſici<g ref="char:EOLhyphen"/>ans and Chirurgians be forthwith ſent to the <hi>Portugal</hi> Ambaſſadours, moſt of them lying ſick of the Pox.</item>
+               <item>21. An act forbidding any one to ſtamp the
+<pb n="10" facs="tcp:29824:6"/>Lord Generals Image in Ginger-bread, leſt the valour of it ſhould bite the children by the tongues.</item>
+            </list>
+            <list>
+               <head>Caſes of Conſcience.</head>
+               <item>1. Whether <hi>Balaam</hi>'s beating his owne Aſs were a ſufficient warrant for the Foot-man's cudgelling Sir <hi>Harry Mildmay.</hi>
+               </item>
+               <item>2. Whether <hi>Cromwel</hi> hath not gotten a patent for Brimſtone, which makes his noſe ſo fiery, and Tiffanies ſo ſeldom worn.</item>
+               <item>3. Whether when the Parliament go to aſ<g ref="char:EOLhyphen"/>ſemble in Hell, they will not go neer to make that a Common-wealth.</item>
+               <item>4. Whether <hi>Bradſhaw</hi> deſerves not the place of a Preſident again, there hardly being his pre<g ref="char:EOLhyphen"/>ſident in all the world for his villanies.</item>
+               <item>5. Whether the text in <hi>Mat.</hi> 25.41. belongs not to our State, where it is ſaid, <hi>Depart from me, ye curſed, into everlaſting fire, prepared for the De<g ref="char:EOLhyphen"/>vill and his Angels.</hi>
+               </item>
+               <item>6. Whether Mr. <hi>Caryl</hi> can ever be as poor as <hi>Job,</hi> whilſt he is twice paid for his Expoſitions.</item>
+               <item>7. Whether the Earl of <hi>Pembroke</hi> did not do like old <hi>Philip</hi>'s own Son, when he prated with his honour, in purchaſing a Memberſhip in the everlaſting Parliament.</item>
+               <item>8. Whether the Committee of —daſhers Hall do not torment men almoſt as bad as the Devill did <hi>Job.</hi>
+               </item>
+               <item>9. Whether <hi>Prideaux</hi> being degraded of his
+<pb n="11" facs="tcp:29824:6"/>Parliament-trade, may not be looked upon as a meer poſt.</item>
+               <item>10. Whether there was not an Iron-monger ſpoil'd, when <hi>Harry Walker</hi> was made a Prieſt, and whether he being a Prieſt, can tell what ſtands for Pillory in <hi>Hebrew.</hi>
+               </item>
+               <item>11. Whether it were Mutton or Veale <hi>Hugh Peters</hi> cheapned of the Butchers wife at <hi>White-Chappel.</hi>
+               </item>
+               <item>12. Whether to obey God and the new Coun<g ref="char:EOLhyphen"/>cel of State, are not inconſiſtent.</item>
+               <item>13 Whether Mr. <hi>Knowls</hi> was not out the laſt Faſt day when he brought a Scripture out of the firſt Epiſtle of <hi>Jude.</hi>
+               </item>
+               <item>14. Whether it was not policy in <hi>Cromwel,</hi> in pardoning the priſoners in <hi>Newgate,</hi> moſt of them being his own ſouldiers.</item>
+               <item>15 Whether <hi>White-Hall</hi> may not be properly called a Den of Thieves.</item>
+               <item>16. Whether the countenance of <hi>Miles Cor<g ref="char:EOLhyphen"/>bet</hi> and Mr. <hi>Gurden,</hi> do not ſpeak their M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thers to be Blackmoors, and their Fathers Jews.</item>
+               <item>17. Whether we have not gotten a bleſſed charge, an everlaſting Parliament metamorpho<g ref="char:EOLhyphen"/>ſed into an everlaſting Army.</item>
+               <item>18. Whether when <hi>Harry Martin</hi> moved the Houſe to take down Bells, it were not that he would b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g the Ropes to make him bands of, they ſo well become him.</item>
+               <item>19. Whether our Saviours riding into <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi>
+                  <pb n="12" facs="tcp:29824:7"/>upon an Aſſes fole, were any more then a Type of our deliverer <hi>Cromwell</hi>'s riding into his Throne upon the backs of 120. Aſſes, to be ele<g ref="char:EOLhyphen"/>cted out of the ſeverall Counties for that pur<g ref="char:EOLhyphen"/>poſe.</item>
+               <item>20. Whether Alderman <hi>Atkins</hi> his imbecility had ever been found out, if Sir <hi>Walter Earl</hi> had not ſmelt it.</item>
+               <item>21. Whether <hi>Cromwel</hi> be not an abſolute hater of Images, ſince he hath defaced Gods in his own countenance.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:29824:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
